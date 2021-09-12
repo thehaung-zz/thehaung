@@ -29,7 +29,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-TypeScript  9 hrs 35 mins   ███████████████████▓░░░░░   78.23 % 
-Server      2 hrs 40 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.77 % 
+Node     9 hrs 35 mins   ███████████████████▓░░░░░   78.23 % 
+Server   2 hrs 40 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.77 % 
 ```
 <!--END_SECTION:waka-->
