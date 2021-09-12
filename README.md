@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey There!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/thehau217vn">
   <img align="left" alt="The Hau | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -7,7 +7,7 @@
 </a>
 <br />
 
-Hi, i'm [Hau Nguyen](https://github.com/thehaung), a software engineer!!!!
+Hi, i'm [Hau Nguyen](https://github.com/thehaung), i'm a software engineer!!!!
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.  
 
@@ -26,7 +26,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-📊 **this week i spent my time on:**
+📊 **Today I spent my time on:**
 <!--START_SECTION:waka-->
 ```text
 Node     9 hrs 35 mins   ███████████████████▓░░░░░   78.23 % 
